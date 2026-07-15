@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shorif!
 
-I'm a Software Engineer with a focus on Artificial Intelligence, and I have 3.5 years of experience in AI development. I'm passionate about exploring the possibilities of AI to solve real-world challenges and create innovative solutions.
+I'm a Software Engineer with a focus on Artificial Intelligence, and I have 6 years of experience in AI development. I'm passionate about exploring the possibilities of AI to solve real-world challenges and create innovative solutions.
 
 ## 👀 Interests
 
