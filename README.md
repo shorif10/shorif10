@@ -1,31 +1,34 @@
-# 👋 Hi, I'm Shorif!
+# Hi, I'm Shorif 👋
 
-I'm a Software Engineer with a focus on Artificial Intelligence, and I have 6 years of experience in AI development. I'm passionate about exploring the possibilities of AI to solve real-world challenges and create innovative solutions.
+**Principal Software Engineer at BJIT** · AI/ML & Backend · Dhaka, Bangladesh
 
-## 👀 Interests
+I build **end-to-end AI systems that run in production**: the LLM, vision and ML models, plus the APIs, background workers, databases and deployment around them. 7+ years at BJIT, two-time Best Performer of the Year, and a trainer and mentor in machine learning and AI.
 
-- Natural Language Processing (NLP) and Text Analysis
-- Computer Vision and Image Recognition
-- Machine Learning and Deep Learning applications
-- AI Ethics and Responsible AI Development
+### 🔧 What I work on
 
-## 🌱 Currently Learning
+- **Generative & Agentic AI:** LLMs and vision-language models (OpenAI, Gemini, Ollama), RAG, tool calling, structured output extraction, agent workflows
+- **Document AI:** turning PDFs, scans and spreadsheets into structured, ERP-ready data
+- **Computer Vision:** object detection, face and emotion analysis, video understanding
+- **Backend:** FastAPI, Django, PostgreSQL, Redis / RQ workers, Docker
 
-I'm always eager to expand my knowledge and stay up-to-date with the latest advancements in the AI field. Currently, I'm diving deeper into:
+### 📌 Featured projects
 
-- Transformers and pre-trained language models
-- Reinforcement Learning
-- Generative Adversarial Networks (GANs)
+| Project | What it does | Stack |
+|---|---|---|
+| [construction-rag-assistant](https://github.com/shorif10/construction-rag-assistant) | RAG system that answers questions from construction documents, grounded in the source PDFs | Python, embeddings, ChromaDB |
+| [construction-ai-assistant](https://github.com/shorif10/construction-ai-assistant) | Local AI assistant with RAG plus built-in tools for calculations and notes | Ollama, ChromaDB, PostgreSQL |
+| [video-summarizer-ai](https://github.com/shorif10/video-summarizer-ai) | Summarizes YouTube videos and extracts key points | Gemini API, FastAPI, Streamlit |
+| [CityFusion-Agent](https://github.com/shorif10/CityFusion-Agent) | Modular AI agent framework for real-time city insights | Python, LLM agents |
+| [ai-agent-demo](https://github.com/shorif10/ai-agent-demo) | Gaming platform API with an AI customer-support agent | FastAPI, Gemini, PostgreSQL |
+| [Data-Science-Roadmap](https://github.com/shorif10/Data-Science-Roadmap) | Self-study curriculum: ~25 runnable notebook modules from Python to LLM agents, with auto-checked exercises | Jupyter, Python |
 
-## 💞️ Collaboration
+> Most of my production work is client work in private repositories. The projects here are personal builds, experiments and teaching material.
 
-I'm open to collaborating on interesting AI projects, research, and open-source contributions. If you have a project or idea you'd like to discuss or collaborate on, feel free to reach out!
+### 🛠️ Tech
 
-## 📫 How to Reach Me
+Python · FastAPI · Django · PyTorch · TensorFlow · OpenCV · LangChain · OpenAI · Gemini · Ollama · PostgreSQL · Redis · Docker
 
-You can connect with me through:
+### 📫 Connect
 
-- LinkedIn: [shorif10](https://www.linkedin.com/in/choyon10/)
+- LinkedIn: [linkedin.com/in/shorifmahmud](https://www.linkedin.com/in/shorifmahmud)
 - Email: shorif.mahmud.abdullah@gmail.com
-
-Feel free to check out my repositories to see some of the AI projects and code I've been working on! If you find anything interesting or have any questions, don't hesitate to drop a message.
