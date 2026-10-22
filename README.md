@@ -17,6 +17,7 @@ I build **end-to-end AI systems that run in production**: the LLM, vision and ML
 
 | Project | What it does | Stack |
 |---|---|---|
+| [invoice-extractor](https://github.com/shorif-mahmud-abdullah/invoice-extractor) | Invoice PDF or text to validated, ERP-ready JSON, with business-rule checks that flag bad invoices for human review | FastAPI, Pydantic, Gemini |
 | [construction-rag-assistant](https://github.com/shorif-mahmud-abdullah/construction-rag-assistant) | RAG system that answers questions from construction documents, grounded in the source PDFs | Python, embeddings, ChromaDB |
 | [construction-ai-assistant](https://github.com/shorif-mahmud-abdullah/construction-ai-assistant) | Local AI assistant with RAG plus built-in tools for calculations and notes | Ollama, ChromaDB, PostgreSQL |
 | [desktop-recorder-pro](https://github.com/shorif-mahmud-abdullah/desktop-recorder-pro) | Cross-platform desktop recorder for system audio, microphone, screen and camera, exporting MP3/MP4 | Python |
