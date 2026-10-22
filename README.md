@@ -15,12 +15,12 @@ I build **end-to-end AI systems that run in production**: the LLM, vision and ML
 
 | Project | What it does | Stack |
 |---|---|---|
-| [construction-rag-assistant](https://github.com/shorif10/construction-rag-assistant) | RAG system that answers questions from construction documents, grounded in the source PDFs | Python, embeddings, ChromaDB |
-| [construction-ai-assistant](https://github.com/shorif10/construction-ai-assistant) | Local AI assistant with RAG plus built-in tools for calculations and notes | Ollama, ChromaDB, PostgreSQL |
-| [video-summarizer-ai](https://github.com/shorif10/video-summarizer-ai) | Summarizes YouTube videos and extracts key points | Gemini API, FastAPI, Streamlit |
-| [CityFusion-Agent](https://github.com/shorif10/CityFusion-Agent) | Modular AI agent framework for real-time city insights | Python, LLM agents |
-| [ai-agent-demo](https://github.com/shorif10/ai-agent-demo) | Gaming platform API with an AI customer-support agent | FastAPI, Gemini, PostgreSQL |
-| [Data-Science-Roadmap](https://github.com/shorif10/Data-Science-Roadmap) | Self-study curriculum: ~25 runnable notebook modules from Python to LLM agents, with auto-checked exercises | Jupyter, Python |
+| [construction-rag-assistant](https://github.com/shorif-mahmud-abdullah/construction-rag-assistant) | RAG system that answers questions from construction documents, grounded in the source PDFs | Python, embeddings, ChromaDB |
+| [construction-ai-assistant](https://github.com/shorif-mahmud-abdullah/construction-ai-assistant) | Local AI assistant with RAG plus built-in tools for calculations and notes | Ollama, ChromaDB, PostgreSQL |
+| [desktop-recorder-pro](https://github.com/shorif-mahmud-abdullah/desktop-recorder-pro) | Cross-platform desktop recorder for system audio, microphone, screen and camera, exporting MP3/MP4 | Python |
+| [CityFusion-Agent](https://github.com/shorif-mahmud-abdullah/CityFusion-Agent) | Modular AI agent framework for real-time city insights | Python, LLM agents |
+| [ai-agent-demo](https://github.com/shorif-mahmud-abdullah/ai-agent-demo) | Gaming platform API with an AI customer-support agent | FastAPI, Gemini, PostgreSQL |
+| [Data-Science-Roadmap](https://github.com/shorif-mahmud-abdullah/Data-Science-Roadmap) | Self-study curriculum: ~25 runnable notebook modules from Python to LLM agents, with auto-checked exercises | Jupyter, Python |
 
 > Most of my production work is client work in private repositories. The projects here are personal builds, experiments and teaching material.
 
